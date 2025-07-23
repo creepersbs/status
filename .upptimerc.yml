@@ -1,23 +1,75 @@
 # Change these first
 owner: creepersbs # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: creepers.sbs
+    url: https://creepers.sbs
+    icon: https://creepers.sbs/assets/img/image.png
+  - name: creepers.sbs - Docs
+    url: https://docs.creepers.sbs
+    icon: https://creepers.sbs/assets/img/image.png
+  - name: creepers.sbs - List
+    url: https://list.creepers.sbs
+    icon: https://creepers.sbs/assets/img/image.png
+  - name: creepers.sbs - Dashboard
+    url: https://app.creepers.sbs
+    icon: https://creepers.sbs/assets/img/image.png
+  - name: Modmail
+    url: https://modmail.creeperhub.net
+    icon: https://giocoliere.dev/assets/creepercraft/creeperhub.png
+  - name: CreeperHUB
+    url: https://creeperhub.net
+    icon: https://giocoliere.dev/assets/creepercraft/creeperhub.png
 
 status-website:
+  favicon: https://creepers.sbs/assets/img/image.png
+
+  themeUrl: https://creepers.sbs/status-style.css
+
+  metaTags: 
+    - name: "description"
+      content: "Get your free .creepers.sbs subdomain instantly. Perfect for developers, Minecraft servers, and personal projects."
+    - name: "keywords"
+      content: "free subdomain, minecraft server hosting, web hosting, developer tools, dns management"
+    - name: "author"
+      content: "CreeperHUB"
+    - name: "og:type"
+      content: "website"
+    - name: "og:title"
+      content: "creepers.sbs - Free Subdomains for Everyone"
+    - name: "og:description"
+      content: "Get your free .creepers.sbs subdomain instantly. Perfect for developers, Minecraft servers, and personal projects."
+    - name: "og:image"
+      content: "https://creepers.sbs/assets/img/mini-banner.png"
+    - name: "og:url"
+      content: "https://creepers.sbs"
+    - name: "og:site_name"
+      content: "creepers.sbs"
+    - name: "wot-verification"
+      content: "6f3bf0c52e4b0190371a"
+    - name: "twitter:card"
+      content: "summary"
+    - name: "twitter:site"
+      content: "@GiocoliereDev"
+    - name: "twitter:creator"
+      content: "@GiocoliereDev"
+    - name: "twitter:title"
+      content: "creepers.sbs - Free Subdomains for Everyone"
+    - name: "twitter:description"
+      content: "Get your free .creepers.sbs subdomain instantly. Perfect for developers, Minecraft servers, and personal projects."
+    - name: "twitter:image"
+      content: "https://creepers.sbs/assets/img/mini-banner.png"
+    - name: "twitter:image:alt"
+      content: "https://creepers.sbs/assets/img/mini-banner.png"
+    - name: "theme-color"
+      content: "#025d32"
+    - name: "discord:invite"
+      content: "Ttyg95fszY"
+    - name: "canonical"
+    content: "https://creepers.sbs"
+    - name: "og:locale"
+      content: "en_US"
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.creepers.sbs
