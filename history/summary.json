@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 388,
-    "timeWeek": 208,
-    "timeMonth": 208,
-    "timeYear": 208,
+    "time": 241,
+    "timeDay": 340,
+    "timeWeek": 241,
+    "timeMonth": 241,
+    "timeYear": 241,
     "dailyMinutesDown": {}
   },
   {
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-25": 71,
+      "2025-07-26": 70,
+      "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 827
     }
@@ -56,7 +57,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-25": 71,
+      "2025-07-26": 70,
+      "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 827
     }
@@ -78,7 +80,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-25": 71,
+      "2025-07-26": 70,
+      "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 827
     }
@@ -94,11 +97,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 440,
-    "timeDay": 644,
-    "timeWeek": 440,
-    "timeMonth": 440,
-    "timeYear": 440,
+    "time": 406,
+    "timeDay": 303,
+    "timeWeek": 406,
+    "timeMonth": 406,
+    "timeYear": 406,
     "dailyMinutesDown": {}
   },
   {
@@ -107,16 +110,16 @@
     "icon": "https://giocoliere.dev/assets/creepercraft/creeperhub.png",
     "slug": "creeper-hub",
     "status": "up",
-    "uptime": "99.29%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "99.29%",
-    "time": 221,
-    "timeDay": 220,
-    "timeWeek": 221,
-    "timeMonth": 221,
-    "timeYear": 221,
+    "uptime": "99.56%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
+    "time": 229,
+    "timeDay": 259,
+    "timeWeek": 229,
+    "timeMonth": 229,
+    "timeYear": 229,
     "dailyMinutesDown": {
       "2025-07-24": 17
     }
