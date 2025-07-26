@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-26": 70,
+      "2025-07-26": 687,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 827
@@ -57,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-26": 70,
+      "2025-07-26": 687,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 827
@@ -80,7 +80,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-26": 70,
+      "2025-07-26": 687,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 827
@@ -109,18 +109,19 @@
     "url": "https://creeperhub.net",
     "icon": "https://giocoliere.dev/assets/creepercraft/creeperhub.png",
     "slug": "creeper-hub",
-    "status": "up",
-    "uptime": "99.56%",
+    "status": "down",
+    "uptime": "99.62%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
     "time": 229,
     "timeDay": 259,
     "timeWeek": 229,
     "timeMonth": 229,
     "timeYear": 229,
     "dailyMinutesDown": {
+      "2025-07-26": 0,
       "2025-07-24": 17
     }
   }
