@@ -80,10 +80,12 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/creepersbs/.github/refs/heads/main/profile/SBS.png
   name: creepers.sbs | Status
   introTitle: "**This** is the official creepers.sbs status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/creepersbs/status). Powered by [Upptime](https://github.com/upptime/upptime).
+  introMessage: "This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/creepersbs/status). Powered by [Upptime](https://github.com/upptime/upptime)."
+
+  nav:
     - title: Status
       href: /
-    - title: Wesbsite
+    - title: Website
       href: https://creepers.sbs
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
