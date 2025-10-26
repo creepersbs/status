@@ -15,12 +15,15 @@ sites:
   - name: creepers.sbs - Dashboard
     url: https://app.creepers.sbs
     icon: https://creepers.sbs/assets/img/image.png
-  - name: Modmail
+  - name: Lavalink Status - CreeperHUB
+    url: https://status.jukebox.creeperhub.net/
+    icon: https://creeperhub.net/logo.png
+  - name: Modmail Status - CreeperHUB
     url: https://modmail.creeperhub.net
-    icon: https://giocoliere.dev/assets/creepercraft/creeperhub.png
+    icon: https://creeperhub.net/logo.png
   - name: CreeperHUB
     url: https://creeperhub.net
-    icon: https://giocoliere.dev/assets/creepercraft/creeperhub.png
+    icon: https://creeperhub.net/logo.png
 
 status-website:
   favicon: https://creepers.sbs/assets/img/image.png
@@ -77,8 +80,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/creepersbs/.github/refs/heads/main/profile/SBS.png
   name: creepers.sbs | Status
   introTitle: "**This** is the official creepers.sbs status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/creepersbs/status). Powered by [Upptime](https://github.com/upptime/upptime)
     - title: Status
       href: /
     - title: Wesbsite
