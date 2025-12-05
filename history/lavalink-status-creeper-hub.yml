@@ -1,7 +1,7 @@
 url: https://status.jukebox.creeperhub.net/
-status: down
-code: 500
-responseTime: 161
-lastUpdated: 2025-12-05T08:50:55.774Z
+status: up
+code: 200
+responseTime: 420
+lastUpdated: 2025-12-05T09:23:28.853Z
 startTime: 2025-10-26T21:37:45.384Z
 generator: Upptime <https://github.com/upptime/upptime>
