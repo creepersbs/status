@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-30": 83,
+      "2026-01-30": 126,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
@@ -245,7 +245,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-30": 83,
+      "2026-01-30": 126,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
@@ -456,7 +456,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-30": 83,
+      "2026-01-30": 126,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
@@ -697,9 +697,9 @@
     "url": "https://creeperhub.net",
     "icon": "https://creeperhub.net/logo.png",
     "slug": "creeper-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "95.23%",
+    "uptimeDay": "95.22%",
     "uptimeWeek": "97.80%",
     "uptimeMonth": "98.21%",
     "uptimeYear": "99.11%",
@@ -709,6 +709,7 @@
     "timeMonth": 1410,
     "timeYear": 946,
     "dailyMinutesDown": {
+      "2026-01-30": 0,
       "2026-01-29": 69,
       "2026-01-26": 50,
       "2026-01-25": 45,
