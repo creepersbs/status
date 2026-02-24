@@ -6,6 +6,15 @@ sites:
   - name: creepers.sbs
     url: https://creepers.sbs
     icon: https://creepers.sbs/assets/img/image.png
+  - name: creepers.cloud
+    url: https://creepers.cloud
+    icon: https://creepers.sbs/assets/img/image.png
+  - name: creepers.pro
+    url: https://creepers.pro
+    icon: https://creepers.sbs/assets/img/image.png
+  - name: creepers.lol
+    url: https://creepers.lol
+    icon: https://creepers.sbs/assets/img/image.png
   - name: creepers.sbs - Docs
     url: https://docs.creepers.sbs
     icon: https://creepers.sbs/assets/img/image.png
