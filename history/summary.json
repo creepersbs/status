@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-07": 80,
+      "2026-03-07": 453,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -335,7 +335,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-07": 80,
+      "2026-03-07": 453,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -582,7 +582,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-07": 80,
+      "2026-03-07": 453,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -839,11 +839,11 @@
     "icon": "https://creeperhub.net/logo.png",
     "slug": "modmail-status-creeper-hub",
     "status": "up",
-    "uptime": "99.21%",
+    "uptime": "99.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.21%",
+    "uptimeYear": "99.22%",
     "time": 348,
     "timeDay": 320,
     "timeWeek": 348,
@@ -859,18 +859,19 @@
     "url": "https://creeperhub.net",
     "icon": "https://creeperhub.net/logo.png",
     "slug": "creeper-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "98.32%",
-    "uptimeDay": "92.17%",
-    "uptimeWeek": "93.59%",
-    "uptimeMonth": "91.76%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "93.99%",
+    "uptimeMonth": "91.85%",
     "uptimeYear": "98.32%",
     "time": 1090,
-    "timeDay": 1463,
-    "timeWeek": 1595,
-    "timeMonth": 1526,
+    "timeDay": 1490,
+    "timeWeek": 1601,
+    "timeMonth": 1525,
     "timeYear": 1090,
     "dailyMinutesDown": {
+      "2026-03-07": 0,
       "2026-03-06": 190,
       "2026-03-05": 24,
       "2026-03-04": 155,
@@ -927,8 +928,7 @@
       "2025-12-26": 63,
       "2025-12-25": 83,
       "2025-12-24": 23,
-      "2025-12-22": 37,
-      "2025-12-19": 20
+      "2025-12-22": 37
     }
   }
 ]
