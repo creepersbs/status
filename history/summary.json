@@ -13,7 +13,7 @@
     "time": 204,
     "timeDay": 152,
     "timeWeek": 202,
-    "timeMonth": 183,
+    "timeMonth": 185,
     "timeYear": 204,
     "dailyMinutesDown": {}
   },
@@ -88,7 +88,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-08": 1398,
+      "2026-03-09": 86,
+      "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
@@ -336,7 +337,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-08": 1398,
+      "2026-03-09": 86,
+      "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
@@ -584,7 +586,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-08": 1398,
+      "2026-03-09": 86,
+      "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
@@ -829,7 +832,7 @@
     "time": 291,
     "timeDay": 176,
     "timeWeek": 249,
-    "timeMonth": 306,
+    "timeMonth": 312,
     "timeYear": 291,
     "dailyMinutesDown": {
       "2026-01-28": 35,
@@ -850,7 +853,7 @@
     "time": 347,
     "timeDay": 248,
     "timeWeek": 333,
-    "timeMonth": 329,
+    "timeMonth": 333,
     "timeYear": 347,
     "dailyMinutesDown": {
       "2025-12-05": 940,
@@ -863,18 +866,18 @@
     "icon": "https://creeperhub.net/logo.png",
     "slug": "creeper-hub",
     "status": "up",
-    "uptime": "98.34%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "94.39%",
+    "uptime": "98.33%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "94.40%",
     "uptimeMonth": "92.05%",
-    "uptimeYear": "98.34%",
+    "uptimeYear": "98.33%",
     "time": 1096,
     "timeDay": 1440,
     "timeWeek": 1519,
     "timeMonth": 1536,
     "timeYear": 1096,
     "dailyMinutesDown": {
-      "2026-03-08": 29,
+      "2026-03-08": 28,
       "2026-03-07": 34,
       "2026-03-06": 190,
       "2026-03-05": 24,
@@ -930,7 +933,8 @@
       "2025-12-28": 26,
       "2025-12-27": 106,
       "2025-12-26": 63,
-      "2025-12-25": 83
+      "2025-12-25": 83,
+      "2025-12-24": 23
     }
   }
 ]
