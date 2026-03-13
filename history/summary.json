@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 205,
     "timeDay": 225,
-    "timeWeek": 231,
-    "timeMonth": 199,
+    "timeWeek": 255,
+    "timeMonth": 204,
     "timeYear": 205,
     "dailyMinutesDown": {}
   },
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 132,
     "timeDay": 195,
-    "timeWeek": 135,
+    "timeWeek": 140,
     "timeMonth": 132,
     "timeYear": 132,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 204,
     "timeDay": 231,
-    "timeWeek": 182,
+    "timeWeek": 200,
     "timeMonth": 204,
     "timeYear": 204,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 160,
     "timeDay": 204,
-    "timeWeek": 166,
+    "timeWeek": 178,
     "timeMonth": 160,
     "timeYear": 160,
     "dailyMinutesDown": {}
@@ -88,7 +88,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-12": 1401,
+      "2026-03-13": 85,
+      "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
@@ -340,7 +341,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-12": 1402,
+      "2026-03-13": 85,
+      "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
@@ -592,7 +594,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-12": 1402,
+      "2026-03-13": 85,
+      "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
@@ -840,8 +843,8 @@
     "uptimeYear": "99.97%",
     "time": 291,
     "timeDay": 302,
-    "timeWeek": 256,
-    "timeMonth": 310,
+    "timeWeek": 262,
+    "timeMonth": 302,
     "timeYear": 291,
     "dailyMinutesDown": {
       "2026-01-28": 35,
@@ -861,8 +864,8 @@
     "uptimeYear": "99.25%",
     "time": 345,
     "timeDay": 282,
-    "timeWeek": 271,
-    "timeMonth": 329,
+    "timeWeek": 278,
+    "timeMonth": 332,
     "timeYear": 345,
     "dailyMinutesDown": {
       "2025-12-05": 940,
@@ -875,18 +878,18 @@
     "icon": "https://creeperhub.net/logo.png",
     "slug": "creeper-hub",
     "status": "up",
-    "uptime": "98.34%",
-    "uptimeDay": "84.86%",
-    "uptimeWeek": "93.29%",
-    "uptimeMonth": "91.98%",
-    "uptimeYear": "98.34%",
+    "uptime": "98.33%",
+    "uptimeDay": "85.14%",
+    "uptimeWeek": "94.14%",
+    "uptimeMonth": "91.99%",
+    "uptimeYear": "98.33%",
     "time": 1106,
     "timeDay": 1614,
-    "timeWeek": 1476,
-    "timeMonth": 1523,
+    "timeWeek": 1473,
+    "timeMonth": 1527,
     "timeYear": 1106,
     "dailyMinutesDown": {
-      "2026-03-12": 219,
+      "2026-03-12": 215,
       "2026-03-10": 141,
       "2026-03-09": 66,
       "2026-03-08": 28,
@@ -940,7 +943,7 @@
       "2026-01-05": 40,
       "2026-01-03": 41,
       "2026-01-02": 21,
-      "2025-12-31": 25
+      "2025-12-31": 52
     }
   }
 ]
