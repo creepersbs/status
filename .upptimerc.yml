@@ -15,8 +15,17 @@ sites:
   - name: creepers.lol
     url: https://creepers.lol
     icon: https://creepers.sbs/assets/img/image.png
+  - name: run-it.tech
+    url: https://run-it.tech
+    icon: https://creepers.sbs/assets/img/image.png
   - name: creepers.sbs - Docs
     url: https://docs.creepers.sbs
+    icon: https://creepers.sbs/assets/img/image.png
+  - name: creepers.sbs - Raw
+    url: https://raw.creepers.sbs
+    icon: https://creepers.sbs/assets/img/image.png
+  - name: creepers.sbs - WhoIs
+    url: https://whois.creepers.sbs
     icon: https://creepers.sbs/assets/img/image.png
   - name: creepers.sbs - List
     url: https://list.creepers.sbs
