@@ -31,7 +31,7 @@ sites:
     url: https://list.creepers.sbs
     icon: https://creepers.sbs/assets/img/image.png
   - name: creepers.sbs - Dashboard
-    url: https://app.creepers.sbs
+    url: https://dash.creepers.sbs
     icon: https://creepers.sbs/assets/img/image.png
   - name: Lavalink Status - CreeperHUB
     url: https://status.jukebox.creeperhub.net/
