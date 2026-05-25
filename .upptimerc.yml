@@ -15,7 +15,7 @@ sites:
   - name: creepers.lol
     url: https://creepers.lol
     icon: https://creepers.sbs/assets/img/image.png
-  - name: run-it.tech
+  - name: run-it.tech - 1 Year only, internal usage
     url: https://run-it.tech
     icon: https://creepers.sbs/assets/img/image.png
   - name: creepers.sbs - Docs
