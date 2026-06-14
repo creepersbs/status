@@ -95,11 +95,11 @@
     "icon": "https://creepers.sbs/assets/img/image.png",
     "slug": "creepers-sbs-docs",
     "status": "up",
-    "uptime": "6.09%",
+    "uptime": "6.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "63.36%",
-    "uptimeYear": "6.09%",
+    "uptimeMonth": "63.63%",
+    "uptimeYear": "6.11%",
     "time": 513,
     "timeDay": 387,
     "timeWeek": 465,
@@ -432,7 +432,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 621,
+      "2026-06-14": 737,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -493,7 +493,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 621,
+      "2026-06-14": 737,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -554,7 +554,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 621,
+      "2026-06-14": 737,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -900,7 +900,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 621,
+      "2026-06-14": 737,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -1276,17 +1276,17 @@
     "url": "https://creeperhub.net",
     "icon": "https://creeperhub.net/logo.png",
     "slug": "creeper-hub",
-    "status": "down",
-    "uptime": "98.32%",
-    "uptimeDay": "77.27%",
-    "uptimeWeek": "77.83%",
-    "uptimeMonth": "91.31%",
-    "uptimeYear": "98.32%",
-    "time": 1277,
-    "timeDay": 1440,
-    "timeWeek": 1623,
-    "timeMonth": 1603,
-    "timeYear": 1277,
+    "status": "up",
+    "uptime": "98.30%",
+    "uptimeDay": "69.26%",
+    "uptimeWeek": "76.86%",
+    "uptimeMonth": "91.04%",
+    "uptimeYear": "98.30%",
+    "time": 1278,
+    "timeDay": 1488,
+    "timeWeek": 1621,
+    "timeMonth": 1605,
+    "timeYear": 1278,
     "dailyMinutesDown": {
       "2026-03-01": 19,
       "2026-03-02": 105,
@@ -1344,7 +1344,7 @@
       "2026-06-11": 807,
       "2026-06-12": 245,
       "2026-06-13": 328,
-      "2026-06-14": 0
+      "2026-06-14": 116
     }
   }
 ]
