@@ -95,11 +95,11 @@
     "icon": "https://creepers.sbs/assets/img/image.png",
     "slug": "creepers-sbs-docs",
     "status": "up",
-    "uptime": "7.11%",
+    "uptime": "7.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.13%",
-    "uptimeYear": "7.11%",
+    "uptimeMonth": "75.49%",
+    "uptimeYear": "7.14%",
     "time": 535,
     "timeDay": 609,
     "timeWeek": 571,
@@ -432,7 +432,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-18": 17,
+      "2026-06-18": 173,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
@@ -497,7 +497,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-18": 17,
+      "2026-06-18": 173,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
@@ -562,7 +562,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-18": 17,
+      "2026-06-18": 173,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
@@ -912,7 +912,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-18": 17,
+      "2026-06-18": 173,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
       "2026-06-15": 1440,
@@ -1293,11 +1293,11 @@
     "icon": "https://creeperhub.net/logo.png",
     "slug": "creeper-hub",
     "status": "down",
-    "uptime": "98.28%",
-    "uptimeDay": "81.21%",
-    "uptimeWeek": "80.22%",
-    "uptimeMonth": "89.90%",
-    "uptimeYear": "98.28%",
+    "uptime": "98.24%",
+    "uptimeDay": "70.40%",
+    "uptimeWeek": "78.68%",
+    "uptimeMonth": "89.54%",
+    "uptimeYear": "98.24%",
     "time": 1280,
     "timeDay": 1321,
     "timeWeek": 1556,
@@ -1359,7 +1359,7 @@
       "2026-06-14": 271,
       "2026-06-16": 75,
       "2026-06-17": 270,
-      "2026-06-18": 0
+      "2026-06-18": 156
     }
   }
 ]
