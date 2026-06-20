@@ -95,11 +95,11 @@
     "icon": "https://creepers.sbs/assets/img/image.png",
     "slug": "creepers-sbs-docs",
     "status": "up",
-    "uptime": "7.85%",
+    "uptime": "7.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.87%",
-    "uptimeYear": "7.85%",
+    "uptimeMonth": "84.06%",
+    "uptimeYear": "7.87%",
     "time": 519,
     "timeDay": 434,
     "timeWeek": 515,
@@ -432,7 +432,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-20": 965,
+      "2026-06-20": 1047,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
@@ -499,7 +499,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-20": 966,
+      "2026-06-20": 1047,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
@@ -566,7 +566,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-20": 966,
+      "2026-06-20": 1047,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
@@ -918,7 +918,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-20": 966,
+      "2026-06-20": 1047,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
@@ -1300,16 +1300,16 @@
     "url": "https://creeperhub.net",
     "icon": "https://creeperhub.net/logo.png",
     "slug": "creeper-hub",
-    "status": "down",
-    "uptime": "98.04%",
-    "uptimeDay": "48.38%",
-    "uptimeWeek": "76.07%",
-    "uptimeMonth": "86.28%",
-    "uptimeYear": "98.04%",
+    "status": "up",
+    "uptime": "98.02%",
+    "uptimeDay": "48.40%",
+    "uptimeWeek": "75.86%",
+    "uptimeMonth": "86.10%",
+    "uptimeYear": "98.02%",
     "time": 1281,
-    "timeDay": 1289,
-    "timeWeek": 1435,
-    "timeMonth": 1561,
+    "timeDay": 1297,
+    "timeWeek": 1431,
+    "timeMonth": 1557,
     "timeYear": 1281,
     "dailyMinutesDown": {
       "2026-03-10": 101,
@@ -1364,7 +1364,7 @@
       "2026-06-17": 270,
       "2026-06-18": 729,
       "2026-06-19": 321,
-      "2026-06-20": 537
+      "2026-06-20": 618
     }
   }
 ]
