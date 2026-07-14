@@ -101,11 +101,11 @@
     "icon": "https://creepers.sbs/assets/img/image.png",
     "slug": "creepers-sbs-docs",
     "status": "up",
-    "uptime": "14.06%",
+    "uptime": "14.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "14.06%",
+    "uptimeYear": "14.07%",
     "time": 518,
     "timeDay": 512,
     "timeWeek": 604,
@@ -438,7 +438,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-14": 946,
+      "2026-07-14": 1010,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
@@ -529,7 +529,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-14": 946,
+      "2026-07-14": 1010,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
@@ -620,7 +620,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-14": 946,
+      "2026-07-14": 1010,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
@@ -996,7 +996,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-14": 946,
+      "2026-07-14": 1010,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
@@ -1402,16 +1402,16 @@
     "url": "https://creeperhub.net",
     "icon": "https://creeperhub.net/logo.png",
     "slug": "creeper-hub",
-    "status": "down",
-    "uptime": "97.65%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "88.16%",
-    "uptimeMonth": "85.55%",
-    "uptimeYear": "97.65%",
+    "status": "up",
+    "uptime": "97.63%",
+    "uptimeDay": "95.54%",
+    "uptimeWeek": "87.52%",
+    "uptimeMonth": "85.45%",
+    "uptimeYear": "97.63%",
     "time": 1313,
-    "timeDay": 1819,
-    "timeWeek": 1680,
-    "timeMonth": 1623,
+    "timeDay": 1622,
+    "timeWeek": 1664,
+    "timeMonth": 1611,
     "timeYear": 1313,
     "dailyMinutesDown": {
       "2026-04-12": 69,
@@ -1463,7 +1463,7 @@
       "2026-07-11": 146,
       "2026-07-12": 252,
       "2026-07-13": 168,
-      "2026-07-14": 0
+      "2026-07-14": 64
     }
   }
 ]
