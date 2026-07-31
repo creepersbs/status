@@ -101,11 +101,11 @@
     "icon": "https://creepers.sbs/assets/img/image.png",
     "slug": "creepers-sbs-docs",
     "status": "up",
-    "uptime": "17.98%",
+    "uptime": "17.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "18.39%",
+    "uptimeYear": "18.40%",
     "time": 512,
     "timeDay": 466,
     "timeWeek": 537,
@@ -429,7 +429,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-31": 982,
+      "2026-07-31": 1074,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
@@ -537,7 +537,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-31": 982,
+      "2026-07-31": 1074,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
@@ -645,7 +645,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-31": 982,
+      "2026-07-31": 1074,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
@@ -1029,7 +1029,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-31": 982,
+      "2026-07-31": 1074,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
@@ -1443,17 +1443,17 @@
     "url": "https://creeperhub.net",
     "icon": "https://creeperhub.net/logo.png",
     "slug": "creeper-hub",
-    "status": "down",
-    "uptime": "97.68%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "97.16%",
-    "uptimeMonth": "92.56%",
-    "uptimeYear": "97.63%",
-    "time": 1322,
-    "timeDay": 1857,
-    "timeWeek": 1612,
-    "timeMonth": 1646,
-    "timeYear": 1339,
+    "status": "up",
+    "uptime": "97.67%",
+    "uptimeDay": "93.61%",
+    "uptimeWeek": "96.25%",
+    "uptimeMonth": "92.40%",
+    "uptimeYear": "97.61%",
+    "time": 1323,
+    "timeDay": 1886,
+    "timeWeek": 1639,
+    "timeMonth": 1650,
+    "timeYear": 1340,
     "dailyMinutesDown": {
       "2026-04-16": 49,
       "2026-04-17": 110,
@@ -1508,7 +1508,7 @@
       "2026-07-25": 141,
       "2026-07-27": 79,
       "2026-07-28": 66,
-      "2026-07-31": 0
+      "2026-07-31": 92
     }
   }
 ]
