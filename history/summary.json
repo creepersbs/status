@@ -79,10 +79,10 @@
     "url": "https://run-it.tech",
     "icon": "https://creepers.sbs/assets/img/image.png",
     "slug": "run-it-tech-1-year-only-internal-usage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 826,
@@ -92,7 +92,8 @@
     "timeYear": 826,
     "dailyMinutesDown": {
       "2026-06-26": 5,
-      "2026-06-25": 124
+      "2026-06-25": 124,
+      "2026-08-04": 2
     }
   },
   {
@@ -101,11 +102,11 @@
     "icon": "https://creepers.sbs/assets/img/image.png",
     "slug": "creepers-sbs-docs",
     "status": "up",
-    "uptime": "18.72%",
+    "uptime": "18.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "19.32%",
+    "uptimeYear": "19.49%",
     "time": 507,
     "timeDay": 464,
     "timeWeek": 477,
@@ -425,7 +426,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-04": 112,
+      "2026-08-04": 1037,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
       "2026-08-01": 1440,
@@ -537,7 +538,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-04": 112,
+      "2026-08-04": 1037,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
       "2026-08-01": 1440,
@@ -649,7 +650,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-04": 112,
+      "2026-08-04": 1038,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
       "2026-08-01": 1440,
@@ -1033,7 +1034,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-04": 112,
+      "2026-08-04": 1038,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
       "2026-08-01": 1440,
@@ -1448,15 +1449,15 @@
     "icon": "https://creeperhub.net/logo.png",
     "slug": "creeper-hub",
     "status": "up",
-    "uptime": "97.68%",
+    "uptime": "97.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.72%",
-    "uptimeMonth": "93.18%",
+    "uptimeWeek": "96.85%",
+    "uptimeMonth": "93.58%",
     "uptimeYear": "97.61%",
     "time": 1324,
     "timeDay": 1688,
     "timeWeek": 1572,
-    "timeMonth": 1634,
+    "timeMonth": 1628,
     "timeYear": 1347,
     "dailyMinutesDown": {
       "2026-04-18": 298,
