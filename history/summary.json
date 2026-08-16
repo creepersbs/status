@@ -80,11 +80,11 @@
     "icon": "https://creepers.sbs/assets/img/image.png",
     "slug": "run-it-tech-1-year-only-internal-usage",
     "status": "down",
-    "uptime": "85.33%",
+    "uptime": "85.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "60.07%",
-    "uptimeYear": "85.33%",
+    "uptimeMonth": "60.04%",
+    "uptimeYear": "85.32%",
     "time": 826,
     "timeDay": 0,
     "timeWeek": 0,
@@ -93,7 +93,7 @@
     "dailyMinutesDown": {
       "2026-06-26": 5,
       "2026-06-25": 124,
-      "2026-08-16": 1248,
+      "2026-08-16": 1258,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -426,7 +426,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-16": 1248,
+      "2026-08-16": 1258,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -550,7 +550,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-16": 1249,
+      "2026-08-16": 1258,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -674,7 +674,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-16": 1249,
+      "2026-08-16": 1258,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -1058,7 +1058,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-16": 1249,
+      "2026-08-16": 1258,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -1472,16 +1472,16 @@
     "url": "https://creeperhub.net",
     "icon": "https://creeperhub.net/logo.png",
     "slug": "creeper-hub",
-    "status": "down",
+    "status": "up",
     "uptime": "97.79%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "97.88%",
-    "uptimeMonth": "96.44%",
-    "uptimeYear": "97.65%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "96.41%",
+    "uptimeYear": "97.64%",
     "time": 1334,
-    "timeDay": 1626,
-    "timeWeek": 1662,
-    "timeMonth": 1597,
+    "timeDay": 1508,
+    "timeWeek": 1642,
+    "timeMonth": 1592,
     "timeYear": 1379,
     "dailyMinutesDown": {
       "2026-04-21": 33,
@@ -1543,7 +1543,7 @@
       "2026-08-13": 132,
       "2026-08-12": 1,
       "2026-08-14": 35,
-      "2026-08-16": 0
+      "2026-08-16": 10
     }
   }
 ]
