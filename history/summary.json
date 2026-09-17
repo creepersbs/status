@@ -13,7 +13,7 @@
     "time": 192,
     "timeDay": 43,
     "timeWeek": 133,
-    "timeMonth": 136,
+    "timeMonth": 135,
     "timeYear": 191,
     "dailyMinutesDown": {
       "2026-06-26": 5,
@@ -80,11 +80,11 @@
     "icon": "https://creepers.sbs/assets/img/image.png",
     "slug": "run-it-tech-1-year-only-internal-usage",
     "status": "down",
-    "uptime": "62.18%",
+    "uptime": "62.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "62.18%",
+    "uptimeYear": "62.12%",
     "time": 826,
     "timeDay": 0,
     "timeWeek": 0,
@@ -93,7 +93,8 @@
     "dailyMinutesDown": {
       "2026-06-26": 5,
       "2026-06-25": 124,
-      "2026-09-16": 1343,
+      "2026-09-17": 36,
+      "2026-09-16": 1440,
       "2026-09-15": 1440,
       "2026-09-14": 1440,
       "2026-09-13": 1440,
@@ -145,15 +146,15 @@
     "icon": "https://creepers.sbs/assets/img/image.png",
     "slug": "creepers-sbs-docs",
     "status": "up",
-    "uptime": "27.19%",
+    "uptime": "27.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "31.33%",
+    "uptimeYear": "31.36%",
     "time": 508,
     "timeDay": 187,
     "timeWeek": 448,
-    "timeMonth": 501,
+    "timeMonth": 499,
     "timeYear": 508,
     "dailyMinutesDown": {
       "2026-05-25": 830,
@@ -405,8 +406,7 @@
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
-      "2025-09-18": 1440,
-      "2025-09-17": 1440
+      "2025-09-18": 1440
     }
   },
   {
@@ -426,7 +426,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-16": 1343,
+      "2026-09-17": 36,
+      "2026-09-16": 1440,
       "2026-09-15": 1440,
       "2026-09-14": 1440,
       "2026-09-13": 1440,
@@ -581,7 +582,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-16": 1343,
+      "2026-09-17": 36,
+      "2026-09-16": 1440,
       "2026-09-15": 1440,
       "2026-09-14": 1440,
       "2026-09-13": 1440,
@@ -736,7 +738,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-16": 1343,
+      "2026-09-17": 36,
+      "2026-09-16": 1440,
       "2026-09-15": 1440,
       "2026-09-14": 1440,
       "2026-09-13": 1440,
@@ -1099,8 +1102,7 @@
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
-      "2025-09-18": 1440,
-      "2025-09-17": 1440
+      "2025-09-18": 1440
     }
   },
   {
@@ -1120,7 +1122,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-16": 1343,
+      "2026-09-17": 36,
+      "2026-09-16": 1440,
       "2026-09-15": 1440,
       "2026-09-14": 1440,
       "2026-09-13": 1440,
@@ -1483,8 +1486,7 @@
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
-      "2025-09-18": 1440,
-      "2025-09-17": 1440
+      "2025-09-18": 1440
     }
   },
   {
@@ -1501,7 +1503,7 @@
     "time": 273,
     "timeDay": 381,
     "timeWeek": 304,
-    "timeMonth": 252,
+    "timeMonth": 253,
     "timeYear": 273,
     "dailyMinutesDown": {
       "2025-12-05": 33,
@@ -1522,7 +1524,7 @@
     "time": 358,
     "timeDay": 216,
     "timeWeek": 394,
-    "timeMonth": 383,
+    "timeMonth": 374,
     "timeYear": 358,
     "dailyMinutesDown": {
       "2025-12-05": 940,
@@ -1534,17 +1536,17 @@
     "url": "https://creeperhub.net",
     "icon": "https://creeperhub.net/logo.png",
     "slug": "creeper-hub",
-    "status": "down",
-    "uptime": "97.92%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.19%",
-    "uptimeYear": "97.60%",
+    "status": "up",
+    "uptime": "97.90%",
+    "uptimeDay": "90.75%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "97.58%",
     "time": 1341,
-    "timeDay": 1060,
-    "timeWeek": 1367,
-    "timeMonth": 1495,
-    "timeYear": 1433,
+    "timeDay": 1390,
+    "timeWeek": 1411,
+    "timeMonth": 1502,
+    "timeYear": 1434,
     "dailyMinutesDown": {
       "2026-04-28": 148,
       "2026-05-21": 156,
@@ -1604,7 +1606,8 @@
       "2026-08-14": 35,
       "2026-08-17": 47,
       "2026-08-28": 306,
-      "2026-09-16": 0
+      "2026-09-17": 36,
+      "2026-09-16": 97
     }
   }
 ]
